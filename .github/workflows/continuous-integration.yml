@@ -6,8 +6,8 @@ on:
     branches:
       - "*.x"
   push:
-    branches:
-      - "*.x"
+#    branches:
+#      - "*.x"
 
 env:
   fail-fast: true
